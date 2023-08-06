@@ -21,7 +21,7 @@ The web application allows users to [describe the main functionality or purpose 
 Contributing
 Contributions are welcome and appreciated! If you find any bugs, have feature requests, or want to improve the project, follow these steps:
 
-Fork the repository.
+
 Create a new branch (git checkout -b feature/your-feature).
 Commit your changes (git commit -m 'Add some feature').
 Push the branch (git push origin feature/your-feature).
