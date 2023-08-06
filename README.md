@@ -10,7 +10,6 @@ Installation
 To run this project locally, follow these steps:
 
 Clone the repository:
-bash
 Copy code
 git clone <https://github.com/Soypoetic/flatiron-frontend-phase-1-project.git>
 cd flatiron-frontend-phase-1-project
