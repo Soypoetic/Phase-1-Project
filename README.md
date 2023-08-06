@@ -6,7 +6,8 @@ Should include project name, description, installation instructions, brief descr
   Description         
 This is my Flatiron Frontend Phase 1 project. The project aims to build a web application using HTML, CSS, and JavaScript to showcase the skills I've learned during the first phase of the Flatiron Frontend curriculum.
 
-
+Installation
+To run this project locally, follow these steps:
 
 Clone the repository:
 bash
