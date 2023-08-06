@@ -17,3 +17,10 @@ try {
 
 }
 
+const handleFormInputFocus = async () => {
+    console.log('focus occurred');
+
+await    getMealCatagories();
+};
+
+document.body.addEventListener('focus', handleFormInputFocus);
