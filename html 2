@@ -103,7 +103,10 @@
             reprehenderit vel, placeat cupiditate consequatur 
             iusto vitae maxime non.
         </p>
-        
+    </section>
+</main>
+<!-- main ends -->
+
 <!-- footer begins -->
 <footer>   
     <p>Copyright Miguel Larios 2023</p>
@@ -112,3 +115,7 @@
 <!-- footer ends -->
 </body>
 </html>
+
+</section>
+</main>
+<!-- main ends -->
